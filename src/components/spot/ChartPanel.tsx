@@ -602,7 +602,7 @@ const ChartPanel: React.FC<ChartPanelProps> = ({
           )}
           
           {activeView === 'depth' && (
-            <div className="h-full">
+            <div className="h-full relative" style={{ margin: 0, padding: 0 }}>
               <DepthChart width={chartSize.width} height={chartSize.height} />
             </div>
           )}

@@ -188,7 +188,16 @@ const DepthChart: React.FC<DepthChartProps> = ({
     <canvas
       ref={canvasRef}
       className="w-full h-full"
-      style={{ maxWidth: '100%', height: '100%', display: 'block' }}
+      style={{
+        maxWidth: '100%', 
+        height: '100%', 
+        display: 'block', 
+        marginBottom: 0, 
+        paddingBottom: 0,
+        borderBottom: 0,
+        position: 'absolute',
+        bottom: 0
+      }}
     />
   );
 };
