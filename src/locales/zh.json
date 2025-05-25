@@ -1,0 +1,183 @@
+{
+  "common": {
+    "login": "登录",
+    "register": "注册",
+    "logout": "登出",
+    "search": "搜索",
+    "settings": "设置",
+    "brand": "币安",
+    "userRole": "普通用户"
+  },
+  "cta": {
+    "startEarning": "今天就开始赚钱"
+  },
+  "register": {
+    "title": "在币安以低手续费购买加密货币",
+    "emailPlaceholder": "电子邮件/手机号码",
+    "start": "开始",
+    "continueWith": "继续使用",
+    "terms": "创建账户即表示我同意",
+    "termsLink": "服务条款",
+    "privacyLink": "隐私政策",
+    "and": "和",
+    "haveAccount": "已有账户？",
+    "noAccount": "没有账户？"
+  },
+  "news": {
+    "title": "新闻",
+    "viewAll": "查看所有新闻"
+  },
+  "faq": {
+    "title": "常见问题",
+    "questions": {
+      "what": "什么是加密货币交易所",
+      "products": "币安提供哪些产品",
+      "howToBuy": "如何在币安购买比特币和其他加密货币",
+      "tracking": "如何追踪加密货币价格",
+      "trading": "如何在币安交易加密货币",
+      "earning": "如何在币安赚取加密货币"
+    },
+    "answers": {
+      "what": "<span class='text-yellow-500'>加密货币</span>交易所是允许用户买卖<span class='text-yellow-500'>比特币</span>、<span class='text-yellow-500'>以太坊</span>和<span class='text-yellow-500'>泰达币</span>等加密货币的数字平台。币安是按交易量计算最大的加密货币交易所。",
+      "products": "<p>币安提供以下产品：</p><ul class='list-disc pl-5 space-y-1'><li>现货交易（买卖加密货币）</li><li>期货和衍生品</li><li>质押和被动收入</li><li>P2P交易</li><li>加密货币卡</li></ul>",
+      "howToBuy": "<p>在币安购买加密货币：</p><ol class='list-decimal pl-5 space-y-1'><li>注册并验证账户</li><li>通过银行卡或P2P充值</li><li>选择要购买的加密货币</li><li>输入金额并确认交易</li></ol>",
+      "tracking": "<p>币安提供多种价格追踪工具：</p><ul class='list-disc pl-5 space-y-1'><li>实时TradingView图表</li><li>带通知功能的移动应用</li><li>市场指标和技术分析</li><li>历史数据和统计</li></ul>",
+      "trading": "<p>开始交易：</p><ol class='list-decimal pl-5 space-y-1'><li>了解交易所基础知识</li><li>选择交易对</li><li>分析图表和市场数据</li><li>下买入或卖出订单</li><li>监控订单执行</li></ol>",
+      "earning": "<p>币安提供多种赚钱方式：</p><ul class='list-disc pl-5 space-y-1'><li>现货交易</li><li>期货交易</li><li>加密货币质押</li><li>参与Launchpad和Launchpool</li><li>P2P交易</li><li>推荐计划</li></ul>"
+    }
+  },
+  "header": {
+    "buyCrypto": "购买加密货币",
+    "markets": "市场",
+    "trading": "交易",
+    "futures": "期货",
+    "earn": "赚币",
+    "square": "广场",
+    "more": "更多",
+    "notifications": "通知",
+    "wallet": "钱包"
+  },
+  "trading": {
+    "spot": {
+      "title": "现货",
+      "description": "使用现代工具在现货市场买卖",
+      "orderBook": {
+        "title": "订单簿",
+        "description": "查看当前买卖订单",
+        "lastPrice": "最新价格",
+        "volume": "成交量",
+        "total": "总计"
+      },
+      "chart": {
+        "title": "图表",
+        "description": "分析价格走势和技术指标",
+        "price": "价格",
+        "high": "最高",
+        "low": "最低"
+      },
+      "pairs": {
+        "title": "交易对",
+        "description": "可用交易对列表",
+        "favorites": "自选",
+        "all": "全部交易对",
+        "volume24h": "24小时成交量"
+      }
+    },
+    "timeframes": {
+      "1м": "1分",
+      "15м": "15分",
+      "1Ч": "1时",
+      "4Ч": "4时",
+      "1Д": "1天",
+      "1Н": "1周"
+    },
+    "spot": {
+      "searchPair": "搜索交易对",
+      "searchCoin": "搜索币种",
+      "change24h": "24小时涨跌"
+    },
+    "margin": {
+      "title": "杠杆",
+      "description": "通过高杠杆最大化利润"
+    },
+    "p2p": {
+      "title": "P2P",
+      "description": "使用银行转账和800多种其他方式买卖加密货币"
+    },
+    "convert": {
+      "title": "转换和大额交易",
+      "description": "交易任何数量的最简单方式"
+    }
+  },
+  "footer": {
+    "community": "社区",
+    "about": "关于我们",
+    "jobs": "工作机会",
+    "press": "新闻中心",
+    "terms": "条款",
+    "products": "产品",
+    "exchange": "交易所",
+    "academy": "学院",
+    "buyCrypto": "购买加密货币",
+    "institutional": "机构服务",
+    "service": "服务",
+    "support": "支持",
+    "tradingRules": "交易规则",
+    "fees": "费用",
+    "api": "API"
+  },
+  "support": {
+    "title": "帮助",
+    "chat": "在线客服",
+    "writeMessage": "写下您的问题，我们将帮助您解决",
+    "enterMessage": "输入消息..."
+  },
+  "dashboard": {
+    "balance": "预估余额",
+    "balanceChart": "余额图表",
+    "btcBalance": "0.00014147 BTC",
+    "rubBalance": "≈ 1,469.32₽",
+    "deposit": "充值",
+    "withdraw": "提现",
+    "buyFiat": "法币购买",
+    "tools": "仪表板",
+    "assets": "资产",
+    "orders": "订单",
+    "referral": "推荐计划",
+    "bonus": "奖励中心",
+    "verification": "验证",
+    "linkAccount": "关联X账户",
+    "quickActions": {
+      "deposit": "充值",
+      "topUp": "充值",
+      "trading": "交易",
+      "spot": "现货",
+      "history": "历史",
+      "transactions": "交易记录",
+      "buy": "购买",
+      "crypto": "加密货币"
+    },
+    "table": {
+      "coin": "币种",
+      "amount": "数量",
+      "value": "价值",
+      "actions": "操作"
+    }
+  },
+  "crypto": {
+    "popular": "热门",
+    "newListing": "新上市",
+    "allCoins": "全部350+币种"
+  },
+  "markets": {
+    "title": "市场概览",
+    "tabs": {
+      "tradingData": "交易数据",
+      "opportunities": {
+        "disclaimer": "请注意，列出的信号是在最近三天内生成的，仅基于市场指标和技术分析。信号包括交易量分析、RSI指标、MACD和支撑/阻力位分析。所有交易操作都涉及风险，请务必进行自己的研究，切勿使用借入资金进行交易。"
+      },
+      "tokenUnlock": "代币解锁",
+      "disclaimer": "请注意，列出的信号是在最近三天内生成的，仅基于市场指标，不代表任何建议。所有交易操作都涉及风险，请务必进行自己的研究。"
+    }
+  }
+}

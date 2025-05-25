@@ -1,0 +1,54 @@
+{
+  "title": "Withdraw Crypto",
+  "steps": {
+    "selectCoin": {
+      "title": "Select Coin",
+      "placeholder": "Select coin",
+      "available": "Available"
+    },
+    "selectNetwork": {
+      "title": "Select Network",
+      "placeholder": "Select network",
+      "warning": "Please ensure the recipient address supports the selected network. Sending to an unsupported address may result in loss of funds."
+    },
+    "address": {
+      "title": "Address",
+      "placeholder": "Enter recipient address"
+    },
+    "amount": {
+      "title": "Amount",
+      "placeholder": "0.00",
+      "minWithdraw": "Min. withdrawal amount",
+      "maxWithdraw": "Max. withdrawal amount"
+    }
+  },
+  "button": {
+    "withdraw": "Withdraw {currency}"
+  },
+  "history": {
+    "title": "Recent Withdrawals",
+    "hideErrors": "Hide error notifications",
+    "table": {
+      "assetTime": "Asset/Time",
+      "amount": "Amount",
+      "network": "Network",
+      "address": "Address",
+      "txId": "TxID",
+      "status": "Status"
+    },
+    "empty": "Withdrawal history is empty"
+  },
+  "modal": {
+    "selectCoin": {
+      "title": "Select Coin",
+      "searchPlaceholder": "Search coin"
+    },
+    "selectNetwork": {
+      "title": "Select Network",
+      "fee": "Fee",
+      "time": "Time",
+      "minWithdraw": "Min. withdrawal",
+      "maxWithdraw": "Max. withdrawal"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Blog",
+  "description": "Latest news and articles about cryptocurrency trading and blockchain technology",
+  "search": "Search articles",
+  "categoriesTitle": "Categories",
+  "popularTags": "Popular Tags",
+  "readMore": "Read more",
+  "minuteRead": "min read",
+  "noPosts": "No articles found",
+  "subscribeTitle": "Subscribe to Our Newsletter",
+  "subscribeDescription": "Get the latest news and updates about cryptocurrency markets and blockchain technology directly to your inbox.",
+  "subscribe": "Subscribe",
+  "emailPlaceholder": "Your email address",
+  "loadMore": "Load more articles",
+  "categories": {
+    "all": "All Categories",
+    "education": "Education",
+    "market-analysis": "Market Analysis",
+    "defi": "DeFi",
+    "security": "Security",
+    "nft": "NFT",
+    "trading": "Trading",
+    "technology": "Technology",
+    "regulation": "Regulation",
+    "news": "News"
+  },
+  "latestArticles": "Latest Articles",
+  "featuredArticle": "Featured Article",
+  "authorPrefix": "By",
+  "publishedOn": "Published on",
+  "relatedArticles": "Related Articles",
+  "shareArticle": "Share Article"
+}

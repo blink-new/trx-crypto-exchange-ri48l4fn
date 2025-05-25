@@ -1,0 +1,132 @@
+{
+  "title": "Profile",
+  "sidebar": {
+    "main": "Main",
+    "security": "Security",
+    "notifications": "Notifications",
+    "support": "Support"
+  },
+  "personalInfo": {
+    "title": "Personal Information",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "companyName": "Company Name",
+    "dateOfBirth": "Date of Birth",
+    "country": "Country",
+    "city": "City",
+    "address": "Address",
+    "phone": "Phone"
+  },
+  "security": {
+    "title": "Security",
+    "twoFactor": {
+      "title": "Two-Factor Authentication",
+      "description": "Add an extra layer of security to your account",
+      "enabled": "Enabled",
+      "disabled": "Disabled",
+      "setup": "Setup 2FA",
+      "disable": "Disable 2FA"
+    },
+    "whitelistAddresses": {
+      "title": "Whitelist Addresses",
+      "description": "Manage your withdrawal addresses",
+      "add": "Add Address",
+      "remove": "Remove",
+      "network": "Network",
+      "label": "Label"
+    },
+    "emailConfirmation": {
+      "title": "Email Confirmation",
+      "description": "Confirm withdrawals via email",
+      "enabled": "Enabled",
+      "disabled": "Disabled"
+    },
+    "withdrawalLimits": {
+      "title": "Withdrawal Limits",
+      "description": "Manage your withdrawal limits",
+      "daily": "Daily Limit",
+      "monthly": "Monthly Limit"
+    },
+    "settings": "Security Settings",
+    "verification": "Security and verification settings"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "email": {
+      "title": "Email Notifications",
+      "description": "Receive notifications via email"
+    },
+    "push": {
+      "title": "Push Notifications",
+      "description": "Receive browser notifications"
+    },
+    "sms": {
+      "title": "SMS Notifications",
+      "description": "Receive notifications via SMS"
+    },
+    "trade": {
+      "title": "Trade Notifications",
+      "description": "Get notified about your trades"
+    },
+    "settings": "Push and email notification settings"
+  },
+  "settings": {
+    "title": "Settings",
+    "general": {
+      "title": "General Settings",
+      "language": "Interface Language",
+      "theme": "Theme",
+      "sound": "Sound"
+    },
+    "trading": {
+      "title": "Trading Settings",
+      "defaultLeverage": "Default Leverage",
+      "orderConfirmation": "Order Confirmation",
+      "tradingLayout": "Trading Layout"
+    }
+  },
+  "support": {
+    "title": "Support",
+    "callback": {
+      "title": "Request Callback",
+      "description": "Get a call from our support team"
+    },
+    "email": {
+      "title": "Send Email",
+      "description": "Contact support via email"
+    }
+  },
+  "actions": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "confirm": "Confirm",
+    "enable": "Enable",
+    "disable": "Disable",
+    "details": "Details"
+  },
+  "verification": {
+    "level": "Verification Level",
+    "basic": "Basic",
+    "advanced": "Advanced",
+    "notVerified": "Not Verified"
+  },
+  "registration": {
+    "date": "Registration Date"
+  },
+  "login": {
+    "lastLogin": "Last Login",
+    "today": "Today"
+  },
+  "status": {
+    "title": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "suspended": "Suspended"
+  },
+  "userRole": {
+    "standard": "Standard User",
+    "vip": "VIP User",
+    "institutional": "Institutional Client"
+  }
+}

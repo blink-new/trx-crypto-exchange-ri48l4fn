@@ -1,0 +1,49 @@
+{
+  "title": "Earn Crypto",
+  "description": "Earn rewards on your crypto assets",
+  "products": {
+    "simpleEarn": {
+      "title": "Simple Earn",
+      "description": "Earn rewards by holding crypto",
+      "apy": "Up to 20% APY"
+    },
+    "defiStaking": {
+      "title": "DeFi Staking",
+      "description": "Stake tokens to earn rewards",
+      "apy": "Up to 80% APY"
+    },
+    "liquidityFarming": {
+      "title": "Liquidity Farming",
+      "description": "Provide liquidity to earn fees",
+      "apy": "Variable APY"
+    },
+    "launchpool": {
+      "title": "Launchpool",
+      "description": "Stake tokens to earn new tokens",
+      "apy": "Variable rewards"
+    }
+  },
+  "howItWorks": {
+    "title": "How it works",
+    "steps": {
+      "choose": {
+        "title": "Choose a product",
+        "description": "Select from our range of earning products based on your risk appetite and preferred rewards"
+      },
+      "stake": {
+        "title": "Stake your assets",
+        "description": "Lock your crypto assets for a specified period to start earning rewards"
+      },
+      "earn": {
+        "title": "Earn rewards",
+        "description": "Receive rewards regularly based on your staked amount and chosen product"
+      }
+    }
+  },
+  "subscribe": {
+    "title": "Get notified about new opportunities",
+    "description": "Subscribe to our newsletter and receive updates about new products",
+    "button": "Subscribe",
+    "placeholder": "Enter your email"
+  }
+}

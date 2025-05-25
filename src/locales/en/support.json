@@ -1,0 +1,38 @@
+{
+  "title": "Support Center",
+  "sections": {
+    "faq": {
+      "title": "FAQ",
+      "description": "Answers to frequently asked questions",
+      "action": "Go to FAQ"
+    },
+    "chat": {
+      "title": "Online Chat",
+      "description": "Get help from our specialists",
+      "action": "Start chat"
+    },
+    "knowledgeBase": {
+      "title": "Knowledge Base",
+      "description": "Detailed guides and instructions",
+      "action": "Open knowledge base"
+    }
+  },
+  "contact": {
+    "title": "Contact Information",
+    "description": "Support service works 24/7",
+    "email": "Email: support@trx.com",
+    "phone": "Phone: 8-800-123-45-67"
+  },
+  "chat": {
+    "title": "Support Chat",
+    "helpTitle": "Help",
+    "greeting": "Hello! How can I help you?",
+    "placeholder": "Enter your message...",
+    "send": "Send",
+    "connecting": "Connecting to operator...",
+    "offline": "Operators are currently offline",
+    "startChat": "Chat with support",
+    "searchPlaceholder": "Search questions...",
+    "noResults": "No results found"
+  }
+}

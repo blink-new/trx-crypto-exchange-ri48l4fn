@@ -1,0 +1,40 @@
+{
+  "title": "VIP Program",
+  "description": "Get access to exclusive benefits and reduced fees",
+  "benefits": {
+    "limits": {
+      "title": "Higher Limits",
+      "description": "Increased withdrawal and trading limits"
+    },
+    "fees": {
+      "title": "Reduced Fees",
+      "description": "Better trading fees for all pairs"
+    },
+    "support": {
+      "title": "Priority Support",
+      "description": "Dedicated 24/7 support line"
+    },
+    "features": {
+      "title": "Exclusive Features",
+      "description": "Access to special trading tools"
+    }
+  },
+  "levels": {
+    "title": "VIP Levels",
+    "level": "Level",
+    "tradingVolume": "Trading Volume (30d)",
+    "bnbBalance": "BNB Balance",
+    "makerFee": "Maker Fee",
+    "takerFee": "Taker Fee",
+    "withdrawalLimit": "Withdrawal Limit"
+  },
+  "howToGet": {
+    "title": "How to get VIP status?",
+    "description": "To get VIP status, you need to meet one of the following conditions",
+    "conditions": {
+      "volume": "Reach the required trading volume in the last 30 days",
+      "balance": "Maintain the required BNB balance in your account"
+    },
+    "note": "VIP status is recalculated every 24 hours. You will automatically receive the corresponding level when you meet the requirements."
+  }
+}

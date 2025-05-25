@@ -1,0 +1,33 @@
+{
+  "title": "Блог",
+  "description": "Последние новости и статьи о криптовалютной торговле и блокчейн-технологиях",
+  "search": "Поиск статей",
+  "categoriesTitle": "Категории",
+  "popularTags": "Популярные теги",
+  "readMore": "Читать далее",
+  "minuteRead": "мин. чтения",
+  "noPosts": "Статьи не найдены",
+  "subscribeTitle": "Подпишитесь на нашу рассылку",
+  "subscribeDescription": "Получайте последние новости и обновления о криптовалютных рынках и блокчейн-технологиях прямо на вашу электронную почту.",
+  "subscribe": "Подписаться",
+  "emailPlaceholder": "Ваш email адрес",
+  "loadMore": "Загрузить еще статьи",
+  "categories": {
+    "all": "Все категории",
+    "education": "Обучение",
+    "market-analysis": "Анализ рынка",
+    "defi": "DeFi",
+    "security": "Безопасность",
+    "nft": "NFT",
+    "trading": "Трейдинг",
+    "technology": "Технологии",
+    "regulation": "Регулирование",
+    "news": "Новости"
+  },
+  "latestArticles": "Последние статьи",
+  "featuredArticle": "Избранная статья",
+  "authorPrefix": "Автор:",
+  "publishedOn": "Опубликовано",
+  "relatedArticles": "Похожие статьи",
+  "shareArticle": "Поделиться статьей"
+}

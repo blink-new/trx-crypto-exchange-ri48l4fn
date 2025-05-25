@@ -1,0 +1,71 @@
+{
+  "login": "登录",
+  "register": "注册",
+  "logout": "登出",
+  "search": "搜索",
+  "settings": "设置",
+  "brand": "币安",
+  "userRole": "普通用户",
+  "name": "名称",
+  "price": "价格",
+  "amount": "数量",
+  "total": "总计",
+  "actions": "操作",
+  "save": "保存",
+  "cancel": "取消",
+  "confirm": "确认",
+  "loading": "加载中...",
+  "error": "错误",
+  "success": "成功",
+  "noResults": "未找到结果",
+  "theme": {
+    "dark": "深色",
+    "light": "浅色"
+  },
+  "language": {
+    "title": "界面语言",
+    "description": "选择您偏好的语言"
+  },
+  "notifications": {
+    "title": "通知",
+    "email": "电子邮件通知",
+    "push": "推送通知",
+    "description": "通知设置"
+  },
+  "security": {
+    "title": "安全",
+    "twoFactor": "双重认证",
+    "password": "修改密码",
+    "description": "安全设置"
+  },
+  "square": {
+    "title": "广场",
+    "feed": "动态",
+    "feedDescription": "加密货币市场新闻和更新",
+    "blog": "博客",
+    "blogDescription": "文章和教育材料"
+  },
+  "header": {
+    "trading": {
+      "title": "交易",
+      "spot": "加密货币",
+      "about": "关于我们",
+      "contacts": "联系我们",
+      "margin": "外汇",
+      "stocks": "股票",
+      "metals": "贵金属",
+      "spotDescription": "从0.1%的费用开始交易现货对",
+      "marginDescription": "使用高达10倍的杠杆进行交易",
+      "stocksDescription": "交易代币化股票",
+      "metalsDescription": "交易贵金属"
+    },
+    "api": "API",
+    "links": {
+      "withdrawal": "提现和退款政策",
+      "userAgreement": "用户协议",
+      "riskDisclosure": "风险披露声明",
+      "aml": "反洗钱",
+      "conflictPolicy": "利益冲突政策"
+    }
+  }
+}

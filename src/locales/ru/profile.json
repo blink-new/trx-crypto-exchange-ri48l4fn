@@ -1,0 +1,132 @@
+{
+  "title": "Профиль",
+  "sidebar": {
+    "main": "Основные",
+    "security": "Безопасность",
+    "notifications": "Уведомления",
+    "support": "Поддержка"
+  },
+  "personalInfo": {
+    "title": "Персональная информация",
+    "firstName": "Имя",
+    "lastName": "Фамилия",
+    "companyName": "Компания",
+    "dateOfBirth": "Дата рождения",
+    "country": "Страна",
+    "city": "Город",
+    "address": "Адрес",
+    "phone": "Телефон"
+  },
+  "security": {
+    "title": "Безопасность",
+    "twoFactor": {
+      "title": "Двухфакторная аутентификация",
+      "description": "Добавьте дополнительный уровень защиты для вашего аккаунта",
+      "enabled": "Включено",
+      "disabled": "Отключено",
+      "setup": "Настроить 2FA",
+      "disable": "Отключить 2FA"
+    },
+    "whitelistAddresses": {
+      "title": "Белый список адресов",
+      "description": "Управление адресами для вывода",
+      "add": "Добавить адрес",
+      "remove": "Удалить",
+      "network": "Сеть",
+      "label": "Метка"
+    },
+    "emailConfirmation": {
+      "title": "Подтверждение по email",
+      "description": "Подтверждение вывода средств по email",
+      "enabled": "Включено",
+      "disabled": "Отключено"
+    },
+    "withdrawalLimits": {
+      "title": "Лимиты на вывод",
+      "description": "Управление лимитами на вывод",
+      "daily": "Дневной лимит",
+      "monthly": "Месячный лимит"
+    },
+    "settings": "Настройки безопасности",
+    "verification": "Настройки безопасности и верификации"
+  },
+  "notifications": {
+    "title": "Уведомления",
+    "email": {
+      "title": "Email-уведомления",
+      "description": "Получать уведомления на почту"
+    },
+    "push": {
+      "title": "Push-уведомления",
+      "description": "Получать уведомления в браузере"
+    },
+    "sms": {
+      "title": "SMS-уведомления",
+      "description": "Получать уведомления по SMS"
+    },
+    "trade": {
+      "title": "Уведомления о сделках",
+      "description": "Получать уведомления о торговых операциях"
+    },
+    "settings": "Настройки push и email уведомлений"
+  },
+  "settings": {
+    "title": "Настройки",
+    "general": {
+      "title": "Общие настройки",
+      "language": "Язык интерфейса",
+      "theme": "Тема",
+      "sound": "Звук"
+    },
+    "trading": {
+      "title": "Настройки торговли",
+      "defaultLeverage": "Кредитное плечо по умолчанию",
+      "orderConfirmation": "Подтверждение ордеров",
+      "tradingLayout": "Расположение элементов"
+    }
+  },
+  "support": {
+    "title": "Поддержка",
+    "callback": {
+      "title": "Заказать звонок",
+      "description": "Получить звонок от службы поддержки"
+    },
+    "email": {
+      "title": "Отправить email",
+      "description": "Связаться с поддержкой по email"
+    }
+  },
+  "actions": {
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "edit": "Редактировать",
+    "confirm": "Подтвердить",
+    "enable": "Включить",
+    "disable": "Отключить",
+    "details": "Подробнее"
+  },
+  "verification": {
+    "level": "Уровень верификации",
+    "basic": "Базовый",
+    "advanced": "Продвинутый",
+    "notVerified": "Не верифицирован"
+  },
+  "registration": {
+    "date": "Дата регистрации"
+  },
+  "login": {
+    "lastLogin": "Последний вход",
+    "today": "Сегодня"
+  },
+  "status": {
+    "title": "Статус",
+    "active": "Активен",
+    "inactive": "Неактивен",
+    "suspended": "Приостановлен"
+  },
+  "userRole": {
+    "standard": "Обычный пользователь",
+    "vip": "VIP-пользователь",
+    "institutional": "Институциональный клиент"
+  }
+}

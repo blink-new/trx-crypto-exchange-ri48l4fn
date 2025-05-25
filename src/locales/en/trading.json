@@ -1,0 +1,59 @@
+{
+  "spot": {
+    "header": {
+      "available": "Available",
+      "deposit": "Deposit"
+    },
+    "live": "Live",
+    "connecting": "Connecting...",
+    "orderBook": {
+      "title": "Order Book",
+      "price": "Price",
+      "amount": "Amount",
+      "total": "Total",
+      "favorites": "Favorites",
+      "allPairs": "All Pairs",
+      "change24h": "24h Change",
+      "lastPrice": "Last Price"
+    },
+    "orderForm": {
+      "buy": {
+        "title": "Buy",
+        "button": "Buy"
+      },
+      "sell": {
+        "title": "Sell",
+        "button": "Sell"
+      },
+      "types": {
+        "limit": "Limit",
+        "market": "Market"
+      },
+      "fields": {
+        "price": "Price",
+        "amount": "Amount",
+        "total": "Total",
+        "available": "Available"
+      }
+    },
+    "trades": {
+      "title": "Trade History",
+      "time": "Time",
+      "price": "Price",
+      "amount": "Amount",
+      "noTrades": "No trades"
+    },
+    "orders": {
+      "title": "My Orders",
+      "history": "Order History",
+      "open": "Open",
+      "filled": "Filled",
+      "cancelled": "Cancelled",
+      "noOrders": "No active orders"
+    },
+    "search": {
+      "pair": "Search pair",
+      "coin": "Search coin"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "spot": {
+    "header": {
+      "available": "Доступно",
+      "deposit": "Пополнить"
+    },
+    "live": "Live",
+    "connecting": "Подключение...",
+    "orderBook": {
+      "title": "Книга ордеров",
+      "price": "Цена",
+      "amount": "Количество",
+      "total": "Всего",
+      "favorites": "Избранное",
+      "allPairs": "Все пары",
+      "change24h": "Изменение за 24ч",
+      "lastPrice": "Последняя цена"
+    },
+    "orderForm": {
+      "buy": {
+        "title": "Купить",
+        "button": "Купить"
+      },
+      "sell": {
+        "title": "Продать",
+        "button": "Продать"
+      },
+      "types": {
+        "limit": "Лимитный",
+        "market": "Рыночный"
+      },
+      "fields": {
+        "price": "Цена",
+        "amount": "Количество",
+        "total": "Всего",
+        "available": "Доступно"
+      }
+    },
+    "trades": {
+      "title": "История сделок",
+      "time": "Время",
+      "price": "Цена",
+      "amount": "Количество",
+      "noTrades": "Нет сделок"
+    },
+    "orders": {
+      "title": "Мои ордера",
+      "history": "История ордеров",
+      "open": "Открытые",
+      "filled": "Исполненные",
+      "cancelled": "Отмененные",
+      "noOrders": "Нет активных ордеров"
+    },
+    "search": {
+      "pair": "Поиск пары",
+      "coin": "Поиск монеты"
+    }
+  }
+}

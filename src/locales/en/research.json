@@ -1,0 +1,40 @@
+{
+  "title": "Research",
+  "description": "Professional research and analysis of the cryptocurrency market",
+  "search": {
+    "placeholder": "Search research..."
+  },
+  "filters": {
+    "timeframe": {
+      "all": "All time",
+      "month": "Last month",
+      "quarter": "Last quarter",
+      "year": "Last year"
+    },
+    "type": {
+      "all": "All types",
+      "pdf": "PDF",
+      "doc": "DOC"
+    }
+  },
+  "categories": {
+    "all": "All",
+    "marketAnalysis": "Market Analysis",
+    "technical": "Technical Analysis",
+    "fundamental": "Fundamental Analysis",
+    "regulation": "Regulation",
+    "newProjects": "New Projects"
+  },
+  "fileInfo": {
+    "size": "File size",
+    "date": "Publication date",
+    "author": "Author",
+    "category": "Category"
+  },
+  "subscribe": {
+    "title": "Get new research first",
+    "description": "Subscribe to our newsletter and receive notifications about new reports",
+    "button": "Subscribe",
+    "placeholder": "Enter your email"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "twoFactor": {
+    "title": "Two-Factor Authentication",
+    "description": "Enable two-factor authentication for additional protection of your account",
+    "enable": "Enable 2FA",
+    "enabling": "Enabling...",
+    "confirm": "Confirm",
+    "enabled": "2FA enabled",
+    "disabled": "2FA disabled",
+    "disable": "Disable 2FA",
+    "disableCode": "Enter code to disable 2FA",
+    "confirmCode": "Enter confirmation code",
+    "enableError": "Error enabling 2FA",
+    "verifyError": "Error verifying code",
+    "disableError": "Error disabling 2FA",
+    "invalidCode": "Invalid code"
+  },
+  "whitelistAddresses": {
+    "title": "Whitelist Addresses",
+    "address": "Address",
+    "addressPlaceholder": "Enter address",
+    "network": "Network",
+    "label": "Label",
+    "labelPlaceholder": "For example: Main wallet",
+    "addButton": "Add address",
+    "fillFields": "Please fill in all fields",
+    "addError": "Error adding address",
+    "removeError": "Error removing address",
+    "added": "Added"
+  },
+  "emailConfirmation": {
+    "title": "Email Confirmation",
+    "description": "Email confirmation for withdrawals",
+    "info": "With email confirmation enabled, each withdrawal operation will require confirmation via a code sent to your email. This is an additional level of protection for your funds.",
+    "recommendation": "It is recommended to keep email confirmation enabled for maximum security"
+  },
+  "withdrawalLimits": {
+    "title": "Withdrawal Cooldown Period",
+    "cooldownPeriod": "Cooldown period",
+    "timeRemaining": "Time until next withdrawal",
+    "description": "The cooldown period between withdrawals helps protect your funds from unauthorized access. After each withdrawal, you must wait the specified time before your next operation.",
+    "warning": "Withdrawals temporarily unavailable. Please wait"
+  }
+}

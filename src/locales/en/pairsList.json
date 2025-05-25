@@ -1,0 +1,18 @@
+{
+  "categories": {
+    "all": "All",
+    "favorites": "Favorites",
+    "currencies": "Currencies",
+    "crypto": "Crypto",
+    "forex": "Forex",
+    "stocks": "Stocks",
+    "metals": "Metals"
+  },
+  "search": {
+    "placeholder": "Search pair"
+  },
+  "noResults": "No results found",
+  "price": "Price",
+  "change": "Change",
+  "volume": "Volume"
+}

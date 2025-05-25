@@ -1,0 +1,54 @@
+{
+  "title": "Вывод криптовалюты",
+  "steps": {
+    "selectCoin": {
+      "title": "Выберите монету",
+      "placeholder": "Выберите монету",
+      "available": "Доступно"
+    },
+    "selectNetwork": {
+      "title": "Выберите сеть",
+      "placeholder": "Выберите сеть",
+      "warning": "Убедитесь, что адрес получателя поддерживает выбранную сеть. Отправка на неподдерживаемый адрес может привести к потере средств."
+    },
+    "address": {
+      "title": "Адрес",
+      "placeholder": "Введите адрес получателя"
+    },
+    "amount": {
+      "title": "Сумма",
+      "placeholder": "0.00",
+      "minWithdraw": "Мин. сумма вывода",
+      "maxWithdraw": "Макс. сумма вывода"
+    }
+  },
+  "button": {
+    "withdraw": "Вывести {currency}"
+  },
+  "history": {
+    "title": "Недавние выводы",
+    "hideErrors": "Спрятать уведомление об ошибках",
+    "table": {
+      "assetTime": "Актив/Время",
+      "amount": "Количество",
+      "network": "Сеть",
+      "address": "Адрес",
+      "txId": "TxID",
+      "status": "Статус"
+    },
+    "empty": "История выводов пуста"
+  },
+  "modal": {
+    "selectCoin": {
+      "title": "Выберите монету",
+      "searchPlaceholder": "Поиск монеты"
+    },
+    "selectNetwork": {
+      "title": "Выберите сеть",
+      "fee": "Комиссия",
+      "time": "Время",
+      "minWithdraw": "Мин. вывод",
+      "maxWithdraw": "Макс. вывод"
+    }
+  }
+}

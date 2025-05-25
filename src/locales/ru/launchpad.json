@@ -1,0 +1,46 @@
+{
+  "title": "Launchpad",
+  "description": "Участвуйте в токенсейлах перспективных проектов на нашей платформе",
+  "activeProjects": {
+    "title": "Активные проекты",
+    "status": {
+      "active": "Активен",
+      "upcoming": "Скоро"
+    },
+    "details": {
+      "token": "Токен",
+      "price": "Цена",
+      "start": "Начало",
+      "end": "Конец",
+      "progress": "Прогресс"
+    },
+    "buttons": {
+      "participate": "Участвовать",
+      "details": "Подробнее"
+    }
+  },
+  "completedProjects": {
+    "title": "Завершенные проекты",
+    "columns": {
+      "project": "Проект",
+      "token": "Токен",
+      "price": "Цена",
+      "roi": "ROI"
+    }
+  },
+  "requirements": {
+    "title": "Требования для участия",
+    "verification": {
+      "title": "Верификация",
+      "description": "Необходимо пройти верификацию личности для участия"
+    },
+    "staking": {
+      "title": "Стейкинг BNB",
+      "description": "Минимальный стейк BNB для получения allocation"
+    },
+    "participation": {
+      "title": "Участие",
+      "description": "Распределение токенов пропорционально стейку"
+    }
+  }
+}

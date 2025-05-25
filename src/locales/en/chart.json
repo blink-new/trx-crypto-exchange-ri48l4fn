@@ -1,0 +1,52 @@
+{
+  "timeframes": {
+    "1м": "1m",
+    "15м": "15m",
+    "1ч": "1h",
+    "4ч": "4h",
+    "1д": "1d",
+    "1н": "1w"
+  },
+  "tools": {
+    "crosshair": "Crosshair",
+    "drawing": "Drawing Tools",
+    "measure": "Measure",
+    "fullscreen": "Fullscreen",
+    "share": "Share",
+    "download": "Download"
+  },
+  "chartTypes": {
+    "candles": "Candlesticks",
+    "bars": "Bars",
+    "line": "Line",
+    "area": "Area"
+  },
+  "views": {
+    "chart": "Chart",
+    "info": "Information",
+    "trading": "Trading Data"
+  },
+  "chartModes": {
+    "price": "Price Chart",
+    "depth": "Market Depth"
+  },
+  "status": {
+    "live": "Live",
+    "connecting": "Connecting...",
+    "disconnected": "Disconnected",
+    "loading": "Loading..."
+  },
+  "measurements": {
+    "price": "Price",
+    "time": "Time",
+    "change": "Change",
+    "volume": "Volume"
+  },
+  "indicators": {
+    "ma": "Moving Average",
+    "ema": "Exponential Moving Average",
+    "rsi": "Relative Strength Index",
+    "macd": "MACD",
+    "volume": "Volume"
+  }
+}

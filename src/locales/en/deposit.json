@@ -1,0 +1,45 @@
+{
+  "title": "Deposit Crypto",
+  "steps": {
+    "selectCoin": {
+      "title": "Select Coin",
+      "placeholder": "Select coin"
+    },
+    "selectNetwork": {
+      "title": "Select Network",
+      "placeholder": "Select network",
+      "warning": "Please ensure the recipient address supports the selected network. Sending to an unsupported address may result in loss of funds."
+    },
+    "depositAddress": {
+      "title": "Deposit Address",
+      "minDeposit": "Min. deposit amount"
+    }
+  },
+  "history": {
+    "title": "Recent Deposits",
+    "hideErrors": "Hide error notifications",
+    "clearHistory": "Clear history",
+    "empty": "Deposit history is empty",
+    "table": {
+      "assetTime": "Asset/Time",
+      "amount": "Amount",
+      "network": "Network",
+      "address": "Address",
+      "txId": "TxID",
+      "status": "Status"
+    }
+  },
+  "modal": {
+    "selectCoin": {
+      "title": "Select Coin",
+      "searchPlaceholder": "Search coin",
+      "available": "Available"
+    },
+    "selectNetwork": {
+      "title": "Select Network",
+      "confirmations": "Confirmations",
+      "time": "Time",
+      "minDeposit": "Min. deposit"
+    }
+  }
+}

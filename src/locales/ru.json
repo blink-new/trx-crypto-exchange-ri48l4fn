@@ -1,0 +1,102 @@
+{
+  "header": {
+    "buyCrypto": "Купить криптовалюту",
+  },
+  "pairsList": {
+    "categories": {
+      "all": "Все",
+      "favorites": "Избранное",
+      "currencies": "Валюты"
+    },
+    "markets": "Рынки",
+    "trading": "Торговля",
+    "futures": "Фьючерсы",
+    "square": "Площадка",
+    "more": "Ещё"
+  },
+  "square": {
+    "feed": "Лента",
+    "blog": "Блог"
+  },
+  "more": {
+    "vip": "VIP",
+    "launchpad": "Launchpad",
+    "research": "Research"
+  },
+  "dashboard": {
+    "title": "Панель инструментов",
+    "balance": "Ориентировочный баланс",
+    "pnlToday": "PnL за сегодня",
+    "tools": "Инструменты",
+    "assets": "Активы",
+    "overview": "Обзор",
+    "crypto": "Крипта",
+    "forex": "Форекс",
+    "externalWallet": "Сторонний кошелек",
+    "orders": "Ордера",
+    "bonusCenter": "Бонусный центр",
+    "referral": "Реферальная программа",
+    "account": "Аккаунт",
+    "subAccounts": "Субаккаунты",
+    "settings": "Настройки",
+    "userRole": "Обычный пользователь",
+    "verification": "Верификация",
+    "linkAccount": "Привязать X",
+    "deposit": "Пополнить",
+    "withdraw": "Вывести",
+    "buyFiat": "Купить за фиат",
+    "myAssets": "Мои активы",
+    "quickActions": {
+      "deposit": "Пополнение",
+      "topUp": "Пополнить",
+      "trading": "Торговля",
+      "spot": "Спот",
+      "history": "История",
+      "transactions": "Транзакции",
+      "buy": "Купить",
+      "crypto": "Криптовалюта"
+    },
+    "table": {
+      "coin": "Монета",
+      "amount": "Количество",
+      "price": "Цена монеты",
+      "cost": "Себестоимость",
+      "change24h": "Изменение за 24ч",
+      "trade": "Торговля"
+    },
+    "subscriptions": "Подписки",
+    "subscribers": "Подписчиков",
+    "uid": "UID",
+    "vip": "VIP",
+    "bonus": "Бонусный центр",
+    "deposits": "Депозиты",
+    "withdrawals": "Выводы",
+    "history": "История",
+    "addresses": "Адреса",
+    "spotOrder": "Спотовый ордер",
+    "p2pOrder": "P2P-ордер",
+    "convertHistory": "История конвертаций",
+    "paymentHistory": "История платежей"
+  },
+  "footer": {
+    "community": "Сообщество",
+    "about": "О нас",
+    "jobs": "Вакансии",
+    "press": "Пресс-центр",
+    "terms": "Условия",
+    "products": "Продукты",
+    "exchange": "Exchange",
+    "academy": "Academy",
+    "buyCrypto": "Купить криптовалюту",
+    "institutional": "Институциональные услуги",
+    "service": "Сервис",
+    "support": "Поддержка",
+    "tradingRules": "Правила торговли",
+    "fees": "Комиссии",
+    "api": "API",
+    "mainMarketData": "Основные данные рынка",
+    "price": "Цена",
+    "change": "Изменение",
+    "volume": "Объем"
+  }
+}

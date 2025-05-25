@@ -1,0 +1,11 @@
+{
+  "title": "News",
+  "viewAll": "View all news",
+  "search": "Search news",
+  "loading": "Loading news...",
+  "error": "Error loading news",
+  "backButton": "Back",
+  "noResults": "No news found",
+  "readMore": "Read more",
+  "published": "Published"
+}

@@ -1,0 +1,49 @@
+{
+  "title": {
+    "open": "Open Orders",
+    "pending": "Pending Orders", 
+    "history": "Order History"
+  },
+  "search": {
+    "placeholder": "Search by pair or ID"
+  },
+  "timeRange": {
+    "7d": "Last 7 days",
+    "all": "All time"
+  },
+  "table": {
+    "date": "Date",
+    "pair": "Pair",
+    "type": "Type",
+    "side": "Side",
+    "price": "Price",
+    "amount": "Amount",
+    "total": "Total",
+    "filled": "Filled",
+    "status": "Status",
+    "actions": "Actions"
+  },
+  "orderType": {
+    "limit": "Limit",
+    "market": "Market"
+  },
+  "orderSide": {
+    "buy": "Buy",
+    "sell": "Sell"
+  },
+  "status": {
+    "open": "Open",
+    "filled": "Filled",
+    "cancelled": "Cancelled",
+    "pending": "Pending"
+  },
+  "actions": {
+    "cancel": "Cancel",
+    "cancelAll": "Cancel All"
+  },
+  "empty": {
+    "open": "No open orders",
+    "pending": "No pending orders",
+    "history": "Order history is empty"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "spot": {
+    "title": "现货",
+    "description": "使用现代工具在现货市场买卖",
+    "orderBook": {
+      "title": "订单簿",
+      "description": "查看当前买卖订单",
+      "lastPrice": "最新价格",
+      "volume": "成交量",
+      "total": "总计"
+    },
+    "orderForm": {
+      "buy": "买入",
+      "sell": "卖出",
+      "limit": "限价",
+      "market": "市价",
+      "price": "价格",
+      "amount": "数量",
+      "total": "总计",
+      "available": "可用"
+    },
+    "chart": {
+      "title": "图表",
+      "description": "分析价格走势和技术指标",
+      "price": "价格",
+      "high": "最高",
+      "low": "最低"
+    }
+  },
+  "timeframes": {
+    "1м": "1分",
+    "15м": "15分",
+    "1Ч": "1时",
+    "4Ч": "4时",
+    "1Д": "1天",
+    "1Н": "1周"
+  }
+}

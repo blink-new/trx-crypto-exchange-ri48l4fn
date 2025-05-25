@@ -1,0 +1,47 @@
+{
+  "title": "Settings",
+  "appearance": {
+    "title": "Appearance",
+    "colorScheme": "Color Scheme",
+    "colorSchemeDescription": "Customize interface colors",
+    "customize": "Customize",
+    "theme": "Interface Theme",
+    "themeDescription": "Choose a theme",
+    "dark": "Dark",
+    "light": "Light"
+  },
+  "language": {
+    "title": "Language and Region",
+    "interface": "Interface Language",
+    "interfaceDescription": "Choose your preferred language"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "email": "Email Notifications",
+    "emailDescription": "Receive notifications via email",
+    "push": "Push Notifications",
+    "pushDescription": "Receive notifications in browser"
+  },
+  "security": {
+    "title": "Security",
+    "twoFactor": "Two-Factor Authentication",
+    "scan": "Scan the QR code in your authentication app or enter the secret key manually",
+    "confirmationCode": "Enter confirmation code",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "changePassword": "Change Password",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm New Password",
+    "save": "Save",
+    "passwordMismatch": "Passwords do not match",
+    "passwordSuccess": "Password successfully changed",
+    "colorSettings": "Color Settings",
+    "primaryColor": "Primary Color",
+    "backgroundColor": "Background Color",
+    "surfaceColor": "Surface Color",
+    "textColor": "Text Color",
+    "buttonColor": "Button Color",
+    "reset": "Reset"
+  }
+}

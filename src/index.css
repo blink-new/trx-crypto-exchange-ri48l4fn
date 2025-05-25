@@ -1,0 +1,234 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --nav-width: 60px;
+  --color-primary: #F0B90B;
+  --color-background: #0C0D0F;
+  --color-surface: #1E2026;
+  --color-text: #FFFFFF;
+  --color-button: #F0B90B;
+  --color-accent: #F0B90B;
+  --color-border: #2B2F36;
+  --color-hover: #363B44;
+  --color-success: #26a69a;
+  --color-error: #ef5350;
+  --color-warning: #f0b90b;
+  --color-info: #2196f3;
+  --color-surface-light: #2B2F36;
+  --color-surface-dark: #1E2126;
+  --color-text-secondary: #9CA3AF;
+}
+
+/* Скрываем скроллбар, но оставляем функциональность прокрутки */
+.scrollbar-hide {
+  -ms-overflow-style: none;  /* IE и Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;  /* Chrome, Safari и Opera */
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-text);
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  overflow-x: hidden;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Основной контейнер */
+.main-container {
+  display: flex;
+  min-height: 100vh;
+  width: 100%;
+  position: relative;
+}
+
+/* Адаптивные контейнеры */
+.container {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+@media (min-width: 640px) {
+  .container {
+    max-width: 640px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 768px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .container {
+    max-width: 1024px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1280px;
+  }
+}
+
+/* Боковая навигация */
+.side-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: var(--nav-width);
+  background-color: var(--color-surface);
+  border-right: 1px solid var(--color-border);
+  transition: width 0.3s ease;
+  z-index: 20;
+}
+
+.side-nav.expanded {
+  width: 100px;
+}
+
+/* Основной контент */
+.main-content {
+  flex: 1;
+  min-height: 100vh;
+  padding-left: var(--nav-width);
+  transition: padding-left 0.3s ease;
+  width: 100%;
+  padding-top: 1px;
+  padding-right: 1px;
+  padding-bottom: 1px;
+  margin-top: 1px;
+}
+
+.main-content.nav-expanded {
+  padding-left: 100px;
+}
+
+/* Общие классы для цветов */
+.bg-surface {
+  background-color: var(--color-surface);
+}
+
+.bg-surface-light {
+  background-color: var(--color-surface-light);
+}
+
+.bg-surface-dark {
+  background-color: var(--color-surface-dark);
+}
+
+.text-primary {
+  color: var(--color-primary);
+}
+
+.text-secondary {
+  color: var(--color-text-secondary);
+}
+
+.border-color {
+  border-color: var(--color-border);
+}
+
+.hover-bg {
+  background-color: var(--color-hover);
+}
+
+/* Единообразные отступы для виджетов */
+.widget-gap {
+  gap: 1px !important;
+}
+
+.widget-border {
+  border-width: 1px !important;
+  border-style: solid;
+  border-color: var(--color-border);
+}
+
+/* Стилизация скроллбара */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-surface);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-hover);
+}
+
+/* Скрываем скроллбар в Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #2B2F36 #1E2026;
+}
+
+/* Стилизация select */
+select option {
+  background-color: #1E2026 !important;
+  color: #F0B90B !important;
+}
+
+select option:hover,
+select option:focus,
+select option:active,
+select option:checked {
+  background-color: #2B2F36 !important;
+}
+
+/* Скрываем скроллбар, но оставляем функциональность прокрутки */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Убираем стандартный белый фон у select в Safari */
+select {
+  -webkit-appearance: none;
+  background-color: transparent !important;
+}
+
+/* Адаптивность для мобильных устройств */
+@media (max-width: 640px) {
+  .main-content {
+    padding-left: 0;
+  }
+  
+  /* Улучшаем отображение на мобильных */
+  .side-nav {
+    transform: translateX(-100%);
+    transition: transform 0.3s ease;
+  }
+  
+  .side-nav.active {
+    transform: translateX(0);
+  }
+}

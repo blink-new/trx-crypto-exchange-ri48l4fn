@@ -1,0 +1,37 @@
+{
+  "title": "Insurance Fund",
+  "currentBalance": {
+    "title": "Current Balance",
+    "lastUpdate": "Last update: {time} ago"
+  },
+  "compensationPaid": {
+    "title": "Compensation Paid",
+    "subtitle": "Throughout fund's operation"
+  },
+  "distribution": {
+    "title": "Funds Distribution",
+    "currencies": {
+      "usdt": "USDT",
+      "btc": "BTC",
+      "eth": "ETH"
+    }
+  },
+  "paymentHistory": {
+    "title": "Payment History",
+    "table": {
+      "date": "Date",
+      "event": "Event",
+      "amount": "Amount",
+      "status": "Status"
+    },
+    "status": {
+      "paid": "Paid",
+      "completed": "Completed",
+      "pending": "Pending"
+    },
+    "events": {
+      "userCompensation": "User compensation after system failure",
+      "monthlyDeposit": "Monthly fund replenishment"
+    }
+  }
+}

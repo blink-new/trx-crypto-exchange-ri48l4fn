@@ -1,0 +1,37 @@
+{
+  "title": "Страховой фонд",
+  "currentBalance": {
+    "title": "Текущий баланс",
+    "lastUpdate": "Последнее обновление: {time} назад"
+  },
+  "compensationPaid": {
+    "title": "Выплачено компенсаций",
+    "subtitle": "За все время работы фонда"
+  },
+  "distribution": {
+    "title": "Распределение средств",
+    "currencies": {
+      "usdt": "USDT",
+      "btc": "BTC",
+      "eth": "ETH"
+    }
+  },
+  "paymentHistory": {
+    "title": "История выплат",
+    "table": {
+      "date": "Дата",
+      "event": "Событие",
+      "amount": "Сумма",
+      "status": "Статус"
+    },
+    "status": {
+      "paid": "Выплачено",
+      "completed": "Выполнено",
+      "pending": "В обработке"
+    },
+    "events": {
+      "userCompensation": "Компенсация пользователям после сбоя",
+      "monthlyDeposit": "Ежемесячное пополнение фонда"
+    }
+  }
+}

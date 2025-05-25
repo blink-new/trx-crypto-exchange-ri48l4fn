@@ -1,0 +1,46 @@
+{
+  "title": "Launchpad",
+  "description": "Participate in token sales of promising projects on our platform",
+  "activeProjects": {
+    "title": "Active Projects",
+    "status": {
+      "active": "Active",
+      "upcoming": "Upcoming"
+    },
+    "details": {
+      "token": "Token",
+      "price": "Price",
+      "start": "Start",
+      "end": "End",
+      "progress": "Progress"
+    },
+    "buttons": {
+      "participate": "Participate",
+      "details": "Details"
+    }
+  },
+  "completedProjects": {
+    "title": "Completed Projects",
+    "columns": {
+      "project": "Project",
+      "token": "Token",
+      "price": "Price",
+      "roi": "ROI"
+    }
+  },
+  "requirements": {
+    "title": "Participation Requirements",
+    "verification": {
+      "title": "Verification",
+      "description": "Identity verification is required to participate"
+    },
+    "staking": {
+      "title": "BNB Staking",
+      "description": "Minimum BNB stake required for allocation"
+    },
+    "participation": {
+      "title": "Participation",
+      "description": "Token distribution proportional to stake"
+    }
+  }
+}

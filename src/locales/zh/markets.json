@@ -1,0 +1,28 @@
+{
+  "title": "市场概览",
+  "tabs": {
+    "tradingData": "交易数据",
+    "opportunities": "机会",
+    "tokenUnlock": "代币解锁"
+  },
+  "search": {
+    "placeholder": "搜索币种"
+  },
+  "gainers": {
+    "title": "涨幅榜",
+    "price": "价格",
+    "change": "24小时涨跌",
+    "volume": "24小时成交量"
+  },
+  "losers": {
+    "title": "跌幅榜"
+  },
+  "tokenUnlock": {
+    "disclaimer": "以下是主要加密项目的代币解锁和归属信息。由于代币经济学包括通货膨胀代币的预计金额，总供应量可能与解锁和锁定金额不同。数据由CoinMarketCap提供，仅供参考。不代表任何声明或保证。",
+    "columns": {
+      "price": "价格 / 24小时涨跌",
+      "unlocked": "总解锁量",
+      "nextUnlock": "下次解锁"
+    }
+  }
+}

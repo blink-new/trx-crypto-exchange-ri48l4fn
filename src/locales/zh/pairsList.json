@@ -1,0 +1,18 @@
+{
+  "categories": {
+    "all": "全部",
+    "favorites": "自选",
+    "currencies": "货币",
+    "crypto": "加密货币",
+    "forex": "外汇",
+    "stocks": "股票",
+    "metals": "金属"
+  },
+  "search": {
+    "placeholder": "搜索交易对"
+  },
+  "noResults": "未找到结果",
+  "price": "价格",
+  "change": "涨跌",
+  "volume": "成交量"
+}

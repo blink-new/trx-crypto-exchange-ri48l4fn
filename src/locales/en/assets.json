@@ -1,0 +1,20 @@
+{
+  "title": "Assets",
+  "search": "Search coin",
+  "deposit": "Deposit",
+  "withdraw": "Withdraw",
+  "trade": "Trade",
+  "table": {
+    "coin": "Coin",
+    "balance": "Balance",
+    "price": "Price USD",
+    "value": "Value USD",
+    "change24h": "24h Change",
+    "actions": "Actions"
+  },
+  "actions": {
+    "deposit": "Deposit",
+    "withdraw": "Withdraw", 
+    "trade": "Trade"
+  }
+}

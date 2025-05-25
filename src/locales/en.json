@@ -1,0 +1,101 @@
+{
+  "header": {
+    "buyCrypto": "Buy Crypto",
+  },
+  "pairsList": {
+    "categories": {
+      "all": "All",
+      "favorites": "Favorites",
+      "currencies": "Currencies"
+    },
+    "markets": "Markets",
+    "trading": "Trading",
+    "futures": "Futures",
+    "square": "Square",
+    "more": "More"
+  },
+  "square": {
+    "feed": "Feed",
+    "blog": "Blog"
+  },
+  "more": {
+    "vip": "VIP",
+    "launchpad": "Launchpad",
+    "research": "Research"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "balance": "Estimated Balance",
+    "pnlToday": "Today's PnL",
+    "tools": "Tools",
+    "assets": "Assets",
+    "overview": "Overview",
+    "crypto": "Crypto",
+    "forex": "Forex",
+    "externalWallet": "External Wallet",
+    "orders": "Orders",
+    "bonusCenter": "Bonus Center",
+    "referral": "Referral Program",
+    "account": "Account",
+    "subAccounts": "Sub-accounts",
+    "settings": "Settings",
+    "userRole": "Regular User",
+    "verification": "Verification",
+    "linkAccount": "Link X Account",
+    "deposit": "Deposit",
+    "withdraw": "Withdraw",
+    "buyFiat": "Buy with Fiat",
+    "myAssets": "My Assets",
+    "quickActions": {
+      "deposit": "Deposit",
+      "topUp": "Top Up",
+      "trading": "Trading",
+      "spot": "Spot",
+      "history": "History",
+      "transactions": "Transactions",
+      "buy": "Buy",
+      "crypto": "Crypto"
+    },
+    "table": {
+      "coin": "Coin",
+      "amount": "Amount",
+      "price": "Coin Price",
+      "cost": "Cost Basis",
+      "change24h": "24h Change",
+      "trade": "Trade"
+    },
+    "subscriptions": "Subscriptions",
+    "subscribers": "Subscribers",
+    "uid": "UID",
+    "vip": "VIP",
+    "deposits": "Deposits",
+    "withdrawals": "Withdrawals",
+    "history": "History",
+    "addresses": "Addresses",
+    "spotOrder": "Spot Order",
+    "p2pOrder": "P2P Order",
+    "convertHistory": "Convert History",
+    "paymentHistory": "Payment History"
+  },
+  "footer": {
+    "community": "Community",
+    "about": "About Us",
+    "jobs": "Careers",
+    "press": "Press Center",
+    "terms": "Terms",
+    "products": "Products",
+    "exchange": "Exchange",
+    "academy": "Academy",
+    "buyCrypto": "Buy Crypto",
+    "institutional": "Institutional Services",
+    "service": "Service",
+    "support": "Support",
+    "tradingRules": "Trading Rules",
+    "fees": "Fees",
+    "api": "API",
+    "mainMarketData": "Main Market Data",
+    "price": "Price",
+    "change": "Change",
+    "volume": "Volume"
+  }
+}

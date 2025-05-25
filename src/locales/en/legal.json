@@ -1,0 +1,112 @@
+{
+  "withdrawal": {
+    "title": "Withdrawal and Refund Policy",
+    "sections": {
+      "general": {
+        "title": "1. General Provisions",
+        "description": "This policy governs the withdrawal and refund processes on the TRX platform. We strive to ensure a safe and efficient process for all users."
+      },
+      "process": {
+        "title": "2. Withdrawal Process",
+        "items": [
+          "Withdrawals are available after full account verification",
+          "Minimum withdrawal amount depends on the selected network",
+          "Processing time varies depending on network congestion",
+          "Withdrawal fees are set according to current rates"
+        ]
+      },
+      "refund": {
+        "title": "3. Refund Policy",
+        "description": "In case of erroneous transfers or technical issues, refunds are considered on a case-by-case basis by our support service."
+      }
+    }
+  },
+  "aml": {
+    "title": "Anti-Money Laundering",
+    "sections": {
+      "intro": {
+        "title": "1. Introduction",
+        "description": "TRX maintains strict Anti-Money Laundering (AML) and Counter-Terrorism Financing (CTF) policies in accordance with international standards."
+      },
+      "measures": {
+        "title": "2. Control Measures",
+        "items": [
+          "Mandatory identity verification (KYC)",
+          "Transaction monitoring",
+          "Source of funds verification",
+          "Cooperation with regulatory authorities"
+        ]
+      },
+      "obligations": {
+        "title": "3. User Obligations",
+        "description": "Users agree to provide accurate information and comply with the platform's AML/CTF policy requirements."
+      }
+    }
+  },
+  "conflict": {
+    "title": "Conflict of Interest Policy",
+    "sections": {
+      "purpose": {
+        "title": "1. Policy Purpose",
+        "description": "This policy defines principles for managing conflicts of interest and ensures fair treatment of all platform users."
+      },
+      "types": {
+        "title": "2. Types of Conflicts",
+        "items": [
+          "Between users and platform",
+          "Between different user groups",
+          "Between employees and users",
+          "In service provision"
+        ]
+      },
+      "management": {
+        "title": "3. Conflict Management",
+        "description": "We implement a range of measures to prevent and manage conflicts of interest, including segregation of duties, information control, and regular audits."
+      }
+    }
+  },
+  "risk": {
+    "title": "Risk Disclosure Statement",
+    "sections": {
+      "general": {
+        "title": "1. General Risks",
+        "description": "Cryptocurrency trading involves high risk of loss of invested funds. Market volatility can lead to significant losses in short periods."
+      },
+      "specific": {
+        "title": "2. Specific Risks",
+        "items": [
+          "Market risk and high volatility",
+          "Liquidity risk",
+          "Technological risks",
+          "Regulatory risks"
+        ]
+      },
+      "recommendations": {
+        "title": "3. Recommendations",
+        "description": "Only invest funds you can afford to lose. It is recommended to thoroughly study the market and conduct your own analysis before trading."
+      }
+    }
+  },
+  "agreement": {
+    "title": "User Agreement",
+    "sections": {
+      "general": {
+        "title": "1. General Provisions",
+        "description": "This User Agreement governs the relationship between TRX and platform users. By using our services, you agree to the terms of this agreement."
+      },
+      "terms": {
+        "title": "2. Terms of Use",
+        "items": [
+          "Account registration and verification",
+          "Trading rules and operations",
+          "Platform usage restrictions",
+          "Rights and obligations of parties"
+        ]
+      },
+      "security": {
+        "title": "3. Security",
+        "description": "Users agree to follow all security measures, including protecting account credentials and using two-factor authentication."
+      }
+    }
+  }
+}

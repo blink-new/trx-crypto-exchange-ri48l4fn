@@ -1,0 +1,47 @@
+{
+  "title": "Настройки",
+  "appearance": {
+    "title": "Внешний вид",
+    "colorScheme": "Цветовая схема",
+    "colorSchemeDescription": "Настройте цвета интерфейса",
+    "customize": "Настроить",
+    "theme": "Тема интерфейса",
+    "themeDescription": "Выберите тему оформления",
+    "dark": "Тёмная",
+    "light": "Светлая"
+  },
+  "language": {
+    "title": "Язык и регион",
+    "interface": "Язык интерфейса",
+    "interfaceDescription": "Выберите предпочитаемый язык"
+  },
+  "notifications": {
+    "title": "Уведомления",
+    "email": "Email-уведомления",
+    "emailDescription": "Получать уведомления на почту",
+    "push": "Push-уведомления",
+    "pushDescription": "Получать уведомления в браузере"
+  },
+  "security": {
+    "title": "Безопасность",
+    "twoFactor": "Двухфакторная аутентификация",
+    "scan": "Отсканируйте QR-код в приложении аутентификации или введите секретный ключ вручную",
+    "confirmationCode": "Введите код подтверждения",
+    "cancel": "Отмена",
+    "confirm": "Подтвердить",
+    "changePassword": "Сменить пароль",
+    "currentPassword": "Текущий пароль",
+    "newPassword": "Новый пароль",
+    "confirmPassword": "Подтвердите новый пароль",
+    "save": "Сохранить",
+    "passwordMismatch": "Пароли не совпадают",
+    "passwordSuccess": "Пароль успешно изменен",
+    "colorSettings": "Настройка цветов",
+    "primaryColor": "Основной цвет",
+    "backgroundColor": "Цвет фона",
+    "surfaceColor": "Цвет поверхностей",
+    "textColor": "Цвет текста",
+    "buttonColor": "Цвет кнопок",
+    "reset": "Сбросить"
+  }
+}

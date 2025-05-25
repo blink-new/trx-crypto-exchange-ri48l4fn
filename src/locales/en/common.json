@@ -1,0 +1,120 @@
+{
+  "login": "Login",
+  "register": "Register",
+  "brand": "TRX",
+  "logout": "Logout",
+  "search": "Search",
+  "settings": "Settings & Configuration",
+  "brand": "TRX",
+  "userRole": "Regular User",
+  "header": {
+    "balance": "Estimated Balance",
+    "buyCrypto": "Buy Crypto",
+    "markets": "Markets",
+    "market": "Market",
+    "insuranceFund": "Insurance Fund",
+    "about": "About Us",
+    "contacts": "Contacts",
+    "trading": {
+      "title": "Trading",
+      "spot": "Crypto",
+      "margin": "Forex",
+      "stocks": "Stocks",
+      "metals": "Metals",
+      "spotDescription": "Trade spot pairs with fees from 0.1%",
+      "marginDescription": "Trade with leverage up to 10x",
+      "stocksDescription": "Trade tokenized stocks",
+      "metalsDescription": "Trade precious metals"
+    },
+    "futures": "Futures",
+    "square": {
+      "title": "Square",
+      "feed": "Feed",
+      "feedDescription": "News and updates from the crypto market",
+      "blog": "Blog",
+      "blogDescription": "Articles and educational materials",
+      "feedDescription": "News and updates from the crypto market",
+      "blogDescription": "Articles and educational materials"
+    },
+    "more": {
+      "title": "More",
+      "feed": "Feed",
+      "feedDescription": "News and updates from the crypto market",
+      "blog": "Blog",
+      "blogDescription": "Articles and educational materials",
+      "vip": "VIP",
+      "launchpad": "Launchpad",
+      "research": "Research",
+      "vipDescription": "Exclusive benefits for VIP clients",
+      "launchpadDescription": "Participate in new token launches",
+      "researchDescription": "Market analytics and research"
+    },
+    "wallet": "Wallet",
+    "notifications": "Notifications"
+  },
+  "footer": {
+    "community": "Community",
+    "about": "About Us",
+    "jobs": "Careers",
+    "press": "Press Center",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "cookies": "Cookies",
+    "products": "Products",
+    "exchange": "Exchange",
+    "academy": "Academy",
+    "buyCrypto": "Buy Crypto",
+    "institutional": "Institutional",
+    "service": "Service",
+    "support": "Support",
+    "tradingRules": "Trading Rules",
+    "fees": "Fees",
+    "api": "API",
+    "links": {
+      "withdrawal": "Withdrawal and Refund Policy",
+      "userAgreement": "User Agreement",
+      "riskDisclosure": "Risk Disclosure Statement",
+      "aml": "Anti-Money Laundering",
+      "conflictPolicy": "Conflict of Interest Policy"
+    }
+  },
+  "home": {
+    "title": "Buy crypto with low fees",
+    "startTrading": "Start Trading",
+    "popularCoins": "Popular Coins",
+    "latestNews": "Latest News",
+    "viewAll": "View All"
+  },
+  "name": "Name",
+  "price": "Price",
+  "amount": "Amount",
+  "total": "Total",
+  "actions": "Actions",
+  "save": "Save",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "loading": "Loading...",
+  "error": "Error",
+  "success": "Success",
+  "noResults": "No results found",
+  "theme": {
+    "dark": "Dark",
+    "light": "Light"
+  },
+  "language": {
+    "title": "Interface Language",
+    "description": "Choose your preferred language"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "email": "Email notifications",
+    "push": "Push notifications",
+    "description": "Notification settings"
+  },
+  "security": {
+    "title": "Security",
+    "twoFactor": "Two-factor authentication",
+    "password": "Change password",
+    "description": "Security settings"
+  }
+}

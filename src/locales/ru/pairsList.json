@@ -1,0 +1,18 @@
+{
+  "categories": {
+    "all": "Все",
+    "favorites": "Избранное",
+    "currencies": "Валюты",
+    "crypto": "Крипто",
+    "forex": "Форекс",
+    "stocks": "Акции",
+    "metals": "Металлы"
+  },
+  "search": {
+    "placeholder": "Поиск пары"
+  },
+  "noResults": "Ничего не найдено",
+  "price": "Цена",
+  "change": "Изменение",
+  "volume": "Объем"
+}
